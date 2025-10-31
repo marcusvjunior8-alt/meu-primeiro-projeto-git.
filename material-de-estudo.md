@@ -8,5 +8,3 @@ Flamengo sempre eu hei de ser
 Seja na terra, seja no mar
 Vencer, vencer, vencer
 
-Uma vez Flamengo
-Flamengo até morrer
