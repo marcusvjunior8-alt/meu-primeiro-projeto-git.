@@ -1,10 +1,7 @@
 # Material de Estudo - Versão Inicial
 
-Uma vez Flamengo
-Sempre Flamengo
-Flamengo sempre eu hei de ser
-
-É meu maior prazer vê-lo brilhar
-Seja na terra, seja no mar
-Vencer, vencer, vencer
-
+- Conceito 1: Versionamento
+- Conceito 2: Repositório
+- A meta é adicionar 5 conceitos essenciais.
+- Conceito 3: Commit
+- Conceito 4: Branch (Ramificação)
